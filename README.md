@@ -1,0 +1,2 @@
+## About this repository
+<p>This repository is alternative version of <a href="https://github.com/kevokt/pi-website-chatbot-gundar">pi-website-chatbot-gundar</a> repository that uses HTML instead of Node.js and EJS templating engine. The purpose of this repository is to deployment on netifly.</p>
